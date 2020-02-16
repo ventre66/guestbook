@@ -6,11 +6,26 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="App\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/event-manager" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/reflection" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easycorp/easy-log-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jdorn/sql-formatter" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ocramius/package-versions" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ocramius/proxy-manager" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/cache" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/event-dispatcher" />
@@ -23,6 +38,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/debug-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/debug-pack" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/doctrine-bridge" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/dotenv" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/error-handler" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
@@ -37,6 +53,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/mime" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/monolog-bridge" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/orm-pack" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-idn" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php73" />
@@ -52,6 +69,8 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/web-profiler-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/yaml" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/zendframework/zend-code" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/zendframework/zend-eventmanager" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -60,11 +79,26 @@
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/event-manager" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/migrations" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/persistence" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/reflection" />
           <root url="file://$MODULE_DIR$/vendor/easycorp/easy-log-handler" />
+          <root url="file://$MODULE_DIR$/vendor/jdorn/sql-formatter" />
           <root url="file://$MODULE_DIR$/vendor/monolog/monolog" />
           <root url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/vendor/ocramius/package-versions" />
+          <root url="file://$MODULE_DIR$/vendor/ocramius/proxy-manager" />
           <root url="file://$MODULE_DIR$/vendor/psr/cache" />
           <root url="file://$MODULE_DIR$/vendor/psr/container" />
           <root url="file://$MODULE_DIR$/vendor/psr/event-dispatcher" />
@@ -77,6 +111,7 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/debug-bundle" />
           <root url="file://$MODULE_DIR$/vendor/symfony/debug-pack" />
           <root url="file://$MODULE_DIR$/vendor/symfony/dependency-injection" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/doctrine-bridge" />
           <root url="file://$MODULE_DIR$/vendor/symfony/dotenv" />
           <root url="file://$MODULE_DIR$/vendor/symfony/error-handler" />
           <root url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
@@ -91,6 +126,7 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/mime" />
           <root url="file://$MODULE_DIR$/vendor/symfony/monolog-bridge" />
           <root url="file://$MODULE_DIR$/vendor/symfony/monolog-bundle" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/orm-pack" />
           <root url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-idn" />
           <root url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
           <root url="file://$MODULE_DIR$/vendor/symfony/polyfill-php73" />
@@ -106,15 +142,32 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/web-profiler-bundle" />
           <root url="file://$MODULE_DIR$/vendor/symfony/yaml" />
           <root url="file://$MODULE_DIR$/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-code" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-eventmanager" />
         </CLASSES>
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/event-manager" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/migrations" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/persistence" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/reflection" />
           <root url="file://$MODULE_DIR$/vendor/easycorp/easy-log-handler" />
+          <root url="file://$MODULE_DIR$/vendor/jdorn/sql-formatter" />
           <root url="file://$MODULE_DIR$/vendor/monolog/monolog" />
           <root url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/vendor/ocramius/package-versions" />
+          <root url="file://$MODULE_DIR$/vendor/ocramius/proxy-manager" />
           <root url="file://$MODULE_DIR$/vendor/psr/cache" />
           <root url="file://$MODULE_DIR$/vendor/psr/container" />
           <root url="file://$MODULE_DIR$/vendor/psr/event-dispatcher" />
@@ -127,6 +180,7 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/debug-bundle" />
           <root url="file://$MODULE_DIR$/vendor/symfony/debug-pack" />
           <root url="file://$MODULE_DIR$/vendor/symfony/dependency-injection" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/doctrine-bridge" />
           <root url="file://$MODULE_DIR$/vendor/symfony/dotenv" />
           <root url="file://$MODULE_DIR$/vendor/symfony/error-handler" />
           <root url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
@@ -141,6 +195,7 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/mime" />
           <root url="file://$MODULE_DIR$/vendor/symfony/monolog-bridge" />
           <root url="file://$MODULE_DIR$/vendor/symfony/monolog-bundle" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/orm-pack" />
           <root url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-idn" />
           <root url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
           <root url="file://$MODULE_DIR$/vendor/symfony/polyfill-php73" />
@@ -156,6 +211,8 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/web-profiler-bundle" />
           <root url="file://$MODULE_DIR$/vendor/symfony/yaml" />
           <root url="file://$MODULE_DIR$/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-code" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-eventmanager" />
         </SOURCES>
       </library>
     </orderEntry>
